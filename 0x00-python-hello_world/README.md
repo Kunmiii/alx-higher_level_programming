@@ -2,3 +2,4 @@
 2. Hello, print
 3. Print integer
 4-print_float
+5-print String
