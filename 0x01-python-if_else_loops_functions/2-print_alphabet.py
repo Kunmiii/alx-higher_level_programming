@@ -4,4 +4,3 @@ end = 123
 while run < end:
     print("{}".format(chr(run)), end="")
     run += 1
-
