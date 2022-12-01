@@ -3,3 +3,4 @@
 3-print_alphabt.py
 4.Hexadecimal printing
 5-print_comb2.py
+6-print_comb3.py
