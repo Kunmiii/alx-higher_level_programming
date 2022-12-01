@@ -10,3 +10,4 @@
 10-add.py
 11-pow.py
 12-fizzbuzz.py
+100-print_tebahpla.py
