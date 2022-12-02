@@ -5,3 +5,5 @@
 4-hidden_discovery.py
 5-variable_load.py
 100-my_calculator.py
+103-fast_alphabet.py
+102-magic_calculation.py
